@@ -5,7 +5,7 @@ Prácticamente todo trabajo que he desarrollado desde que entré en la Universid
 
 ## Por si me andan buscando
 
-- Gmail: germaaan@gmail.com
+- Gmail: [germaaan@gmail.com](mailto:germaaan@email.com)
 - LinkedIn: [Aquí](https://www.linkedin.com/pub/german-martinez-maldonado/90/632/528)
 - Twitter: [@germaaan_](https://twitter.com/germaaan_)
 - Facebook: [Allí](https://www.facebook.com/germaaan.mm)
