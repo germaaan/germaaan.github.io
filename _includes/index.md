@@ -2,9 +2,10 @@
 ## Lo que he hecho, hago y pretendo seguir haciendo
 
 Prácticamente todo trabajo que he desarrollado desde que entré en la **Universidad de Granada** está en [mi página de GitHub](https://github.com/germaaan). Al margen de pequeños proyectos independientes, destacaría:
-* Los [trabajos realizados](https://github.com/germaaan/trabajos_universidad) para las diferentes asignaturas del **Grado de Ingeniería Informática**.
-* Mis [contribuciones](https://github.com/oslugr/ugr-transparente-servidor) al desarrollo del portal [UGR Transparente](http://transparente.ugr.es/), el sitio Web de la Universidad de Granada de acceso a Datos Abiertos.
-* Mi [Trabajo Fin de Grado](https://github.com/germaaan/TFG): **"Un portal de transparencia para datos libres"**, que trata sobre el aspecto técnico de mi trabajo realizado para dicho portal, realizado bajo licencia libre *Creative Commons* y disponible desde [aquí](https://github.com/germaaan/TFG/releases/download/1.0/project.pdf).
+
+- Los [trabajos realizados](https://github.com/germaaan/trabajos_universidad) para las diferentes asignaturas del **Grado de Ingeniería Informática**.
+- Mis [contribuciones](https://github.com/oslugr/ugr-transparente-servidor) al desarrollo del portal [UGR Transparente](http://transparente.ugr.es/), el sitio Web de la Universidad de Granada de acceso a Datos Abiertos.
+- Mi [Trabajo Fin de Grado](https://github.com/germaaan/TFG): **"Un portal de transparencia para datos libres"**, que trata sobre el aspecto técnico de mi trabajo realizado para dicho portal, realizado bajo licencia libre *Creative Commons* y disponible desde [aquí](https://github.com/germaaan/TFG/releases/download/1.0/project.pdf).
 
 Libre eres de ojear (o forkear) cualquier cosa que te atraiga.
 
