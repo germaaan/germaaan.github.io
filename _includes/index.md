@@ -9,7 +9,7 @@ Prácticamente todo trabajo que he desarrollado desde que entré en la **Univers
 
 Libre eres de ojear (o forkear) cualquier cosa que te atraiga.
 
-## Como contactarme
+## Dónde encontrarme
 
 - Correo: [germaaan@gmail.com](mailto:germaaan@email.com)
 - GitHub: [@germaaan](https://github.com/germaaan/)
