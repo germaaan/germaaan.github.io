@@ -17,7 +17,7 @@ Libre eres de ojear (o forkear) cualquier cosa que te atraiga.
 
 ## Foto propia
 
-![German](german.png)
+![german](../german.png)
 
 ## Based on
 
