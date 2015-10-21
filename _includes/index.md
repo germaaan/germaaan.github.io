@@ -13,7 +13,8 @@ Libre eres de ojear (o forkear) cualquier cosa que te atraiga.
 
 - Correo: [germaaan@gmail.com](mailto:germaaan@email.com)
 - GitHub: [@germaaan](https://github.com/germaaan/)
-- LinkedIn: [enlace](https://www.linkedin.com/pub/german-martinez-maldonado/90/632/528)
+- Twitter: [@germaaan_](https://twitter.com/germaaan_)
+- [LinkedIn](https://www.linkedin.com/pub/german-martinez-maldonado/90/632/528)
 
 ## Foto propia
 
